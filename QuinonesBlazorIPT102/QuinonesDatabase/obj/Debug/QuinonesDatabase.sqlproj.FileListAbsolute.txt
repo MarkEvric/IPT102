@@ -1,0 +1,10 @@
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesDatabase\bin\Debug\QuinonesDatabase.dacpac
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesDatabase\bin\Debug\QuinonesDatabase.dll
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesDatabase\bin\Debug\QuinonesDatabase.pdb
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesDatabase\obj\Debug\QuinonesDatabase.sqlproj.AssemblyReference.cache
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesDatabase\obj\Debug\Model.xml
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesDatabase\obj\Debug\refactor.xml
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesDatabase\obj\Debug\postdeploy.sql
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesDatabase\obj\Debug\predeploy.sql
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesDatabase\obj\Debug\QuinonesDatabase.dll
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesDatabase\obj\Debug\QuinonesDatabase.pdb

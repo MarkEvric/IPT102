@@ -1,0 +1,202 @@
+﻿@page "/UpdateContact"
+@inject DisplayContactDb DisCon
+@inject UpdateContactDb UpCon
+<h3>UpdateContact</h3>
+<PageTitle>Get Contact</PageTitle>
+<style>
+    svg {
+        height: 23rem;
+        margin-right: 4rem;
+    }
+
+    #envelope {
+        animation: float 2s ease-in-out infinite;
+    }
+
+    #star1,
+    #star2,
+    #star3,
+    #star4,
+    #star5,
+    #star6 {
+        animation: blink 1s ease-in-out infinite;
+    }
+
+    #star2 {
+        animation-delay: 100ms;
+    }
+
+    #star3 {
+        animation-delay: 500ms;
+    }
+
+    #star4 {
+        animation-delay: 700ms;
+    }
+
+    #star5 {
+        animation-delay: 300ms;
+    }
+
+    #star6 {
+        animation-delay: 200ms;
+    }
+
+    .container {
+        height: 100vh;
+    }
+
+    form {
+        min-width: 25rem;
+        font-family: 'Pacifico', cursive;
+        color: #212529;
+        font-size: 2.5rem;
+        margin-top: 2rem;
+    }
+
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .form-control {
+        background-color: #f2f6f8;
+        border-radius: 2rem;
+        border: none;
+        box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.11);
+        height: 3.3rem;
+        padding: .5rem 3.5rem;
+    }
+
+    .focus {
+        background-color: #f2f6f8;
+        border: none;
+        box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.11);
+    }
+
+    .message .form-control {
+        padding: .5rem 1.8rem;
+    }
+
+    ::placeholder {
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 600;
+        font-size: 1.1rem;
+        color: #838788;
+        position: relative;
+        left: 0;
+    }
+
+    .input,
+    .textarea {
+        font-family: 'Quicksand', sans-serif;
+        color: #212529;
+        font-size: 1.1rem;
+    }
+
+    .icon {
+        color: #57565c;
+        height: 1.3rem;
+        position: absolute;
+        left: 1.5rem;
+        top: 1.1rem;
+    }
+
+    .btn.btn-primary {
+        font-family: 'Quicksand', sans-serif;
+        font-weight: bold;
+        height: 2.5rem;
+        line-height: 2.5rem;
+        padding: 0 3rem;
+        border: 0;
+        border-radius: 3rem;
+        background-image: linear-gradient(131deg, #ffd340, #ff923c, #ff923c, #ff923c);
+        background-size: 300% 100%;
+        transition: all 0.3s ease-in-out;
+    }
+
+        .btn.btn-primary:hover:enabled {
+            box-shadow: 0 0.5em 0.5em -0.4em #ff923cba;
+            background-size: 100% 100%;
+            transform: translateY(-0.15em);
+        }
+</style>
+<h1 class="title text-center mb-4">Update Contact</h1>
+
+@if (optionsName != null)
+{
+    <select class="select-option" @bind="selectedContactId">
+        @foreach (var option in optionsName)
+        {
+            <option value="@option?.PersonId">@option?.FirstName</option>
+        }
+    </select>
+    <button @onclick="ContactDisplay" class="btn btn-primary">Check</button>
+}
+
+<form @onsubmit="UpContact">
+
+    <div class="form-group position-relative">
+        <label for="formFirstName">
+            <i class="icon" data-feather="user"></i>
+        </label>
+        <input type="text" id="formFirstName" class="form-control form-control-lg thick" placeholder="FirstName" @bind="updateContact.FirstName">
+    </div>
+
+    <div class="form-group position-relative">
+        <label for="formLastName">
+            <i class="icon" data-feather="mail"></i>
+        </label>
+        <input type="text" id="formLastName" class="form-control form-control-lg thick" placeholder="LastName" @bind="updateContact.LastName">
+    </div>
+
+    <div class="form-group position-relative">
+        <label for="formEmail">
+            <i class="icon" data-feather="mail"></i>
+        </label>
+        <input type="email" id="formEmail" class="form-control form-control-lg thick" placeholder="E-mail" @bind="updateContact.Email">
+    </div>
+
+    <div class="form-group position-relative">
+        <label for="formMobileNumber">
+            <i class="icon" data-feather="mail"></i>
+        </label>
+        <input type="number" id="formMobile" class="form-control form-control-lg thick" placeholder="Mobile Number" @bind="updateContact.MobileNumber">
+    </div>
+
+    <div class="form-group position-relative">
+        <label for="formAddress">
+            <i class="icon" data-feather="mail"></i>
+        </label>
+        <input type="text" id="formAddress" class="form-control form-control-lg thick" placeholder="Address" @bind="updateContact.PAddress">
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary" tabIndex="-1">Update</button>
+    </div>
+</form>
+
+@code {
+#nullable disable
+    private IEnumerable<Person> optionsName;
+    private Person updateContact = new Person();
+    private int selectedContactId;
+
+    protected override void OnInitialized()
+    {
+        optionsName = DisCon.list();
+    }
+
+    private void ContactDisplay()
+    {
+        updateContact = DisCon.SelectedContact(selectedContactId)?.FirstOrDefault() as Person;
+    }
+    private void UpContact()
+    {
+
+        UpCon.updateContact(updateContact);
+        updateContact = new Person();
+        optionsName = DisCon.list();
+    }
+}
+
+

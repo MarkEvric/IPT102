@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuinonesBlazor", "QuinonesBlazor\QuinonesBlazor.csproj", "{2BBB12E3-0178-4369-85FB-D0016C25BB2C}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "QuinonesDatabase", "QuinonesDatabase\QuinonesDatabase.sqlproj", "{74D2EC5F-E226-4D3D-BE6B-B27B9B1388ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BBB12E3-0178-4369-85FB-D0016C25BB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBB12E3-0178-4369-85FB-D0016C25BB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBB12E3-0178-4369-85FB-D0016C25BB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBB12E3-0178-4369-85FB-D0016C25BB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D2EC5F-E226-4D3D-BE6B-B27B9B1388ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D2EC5F-E226-4D3D-BE6B-B27B9B1388ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D2EC5F-E226-4D3D-BE6B-B27B9B1388ED}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{74D2EC5F-E226-4D3D-BE6B-B27B9B1388ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D2EC5F-E226-4D3D-BE6B-B27B9B1388ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D2EC5F-E226-4D3D-BE6B-B27B9B1388ED}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A34D791-9DF9-42B0-9248-352948238499}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesBlazor\obj\Debug\net6.0\QuinonesBlazor.csproj.AssemblyReference.cache
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesBlazor\obj\Debug\net6.0\QuinonesBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesBlazor\obj\Debug\net6.0\QuinonesBlazor.AssemblyInfoInputs.cache
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesBlazor\obj\Debug\net6.0\QuinonesBlazor.AssemblyInfo.cs
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesBlazor\obj\Debug\net6.0\QuinonesBlazor.csproj.CoreCompileInputs.cache
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesBlazor\obj\Debug\net6.0\QuinonesBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesBlazor\obj\Debug\net6.0\QuinonesBlazor.RazorAssemblyInfo.cache
+C:\QuinonesBlazorApp\QuinonesBlazor\QuinonesBlazor\obj\Debug\net6.0\QuinonesBlazor.RazorAssemblyInfo.cs
