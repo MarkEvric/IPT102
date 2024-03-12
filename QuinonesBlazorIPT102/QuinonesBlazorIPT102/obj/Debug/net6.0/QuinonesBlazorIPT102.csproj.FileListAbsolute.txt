@@ -1,0 +1,8 @@
+C:\Users\admin\OneDrive\Desktop\QuinonesBlazor\QuinonesBlazorIPT102\QuinonesBlazorIPT102\obj\Debug\net6.0\QuinonesBlazorIPT102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\QuinonesBlazor\QuinonesBlazorIPT102\QuinonesBlazorIPT102\obj\Debug\net6.0\QuinonesBlazorIPT102.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\QuinonesBlazor\QuinonesBlazorIPT102\QuinonesBlazorIPT102\obj\Debug\net6.0\QuinonesBlazorIPT102.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\QuinonesBlazor\QuinonesBlazorIPT102\QuinonesBlazorIPT102\obj\Debug\net6.0\QuinonesBlazorIPT102.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\QuinonesBlazor\QuinonesBlazorIPT102\QuinonesBlazorIPT102\obj\Debug\net6.0\QuinonesBlazorIPT102.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\OneDrive\Desktop\QuinonesBlazor\QuinonesBlazorIPT102\QuinonesBlazorIPT102\obj\Debug\net6.0\QuinonesBlazorIPT102.RazorAssemblyInfo.cache
+C:\Users\admin\OneDrive\Desktop\QuinonesBlazor\QuinonesBlazorIPT102\QuinonesBlazorIPT102\obj\Debug\net6.0\QuinonesBlazorIPT102.RazorAssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\QuinonesBlazor\QuinonesBlazorIPT102\QuinonesBlazorIPT102\obj\Debug\net6.0\QuinonesBlazorIPT102.csproj.AssemblyReference.cache

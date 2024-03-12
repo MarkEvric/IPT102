@@ -1,0 +1,53 @@
+﻿@page "/"
+
+<form @onsubmit="Create">
+    <h1 class="title text-center mb-4">I</h1>
+
+    <div class="form-group position-relative">
+        <label for="FirstName">
+            <i class="icon" data-feather="user"></i>
+        </label>
+        <input type="text" id="FirstName" class="form-control form-control-lg thick" placeholder="FirstName" @bind="profileInput.ProfileName">
+    </div>
+
+    <div class="form-group position-relative">
+        <label for="LastName">
+            <i class="icon" data-feather="mail"></i>
+        </label>
+        <input type="text" id="LastName" class="form-control form-control-lg thick" placeholder="LastName" @bind="profileInput.ProfileLastName">
+    </div>
+
+    <div class="form-group position-relative">
+        <label for="MiddleName">
+            <i class="icon" data-feather="mail"></i>
+        </label>
+        <input type="text" id="MiddleName" class="form-control form-control-lg thick" placeholder="MiddleName" @bind="profileInput.ProfileMiddleName">
+    </div>
+    <div class="form-group position-relative">
+        <label for="ContactNumber">
+            <i class="icon" data-feather="mail"></i>
+        </label>
+        <input type="text" id="ContactNumber" class="form-control form-control-lg thick" placeholder="ContactNumber" @bind="profileInput.ProfileContactNumber">
+    </div>
+    <div class="form-group position-relative">
+        <label for="Address">
+            <i class="icon" data-feather="mail"></i>
+        </label>
+        <input type="text" id="Address" class="form-control form-control-lg thick" placeholder="Address" @bind="profileInput.ProfileAddress">
+    </div>
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary" tabIndex="-1">Save</button>
+    </div>
+</form>
+@code {
+
+    #nullable disable
+    private Profile ProfileInput = new Profile();
+
+    private void Create()
+    {
+        ProfileDB.Create(profileInput);
+        profileInput = new Profile();
+    }
+}
+
