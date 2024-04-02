@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\QuinonesBlazorWebAssembly.props" />
+</Project>
