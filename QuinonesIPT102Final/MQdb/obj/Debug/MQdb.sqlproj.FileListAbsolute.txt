@@ -1,0 +1,10 @@
+C:\Code\QuinonesIPT102Final\MQdb\bin\Debug\MQdb.dacpac
+C:\Code\QuinonesIPT102Final\MQdb\bin\Debug\MQdb.dll
+C:\Code\QuinonesIPT102Final\MQdb\bin\Debug\MQdb.pdb
+C:\Code\QuinonesIPT102Final\MQdb\obj\Debug\MQdb.sqlproj.AssemblyReference.cache
+C:\Code\QuinonesIPT102Final\MQdb\obj\Debug\Model.xml
+C:\Code\QuinonesIPT102Final\MQdb\obj\Debug\refactor.xml
+C:\Code\QuinonesIPT102Final\MQdb\obj\Debug\postdeploy.sql
+C:\Code\QuinonesIPT102Final\MQdb\obj\Debug\predeploy.sql
+C:\Code\QuinonesIPT102Final\MQdb\obj\Debug\MQdb.dll
+C:\Code\QuinonesIPT102Final\MQdb\obj\Debug\MQdb.pdb

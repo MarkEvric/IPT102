@@ -1,0 +1,7 @@
+﻿CREATE PROCEDURE [dbo].[MQdelete]
+    @MQId INT
+AS
+BEGIN
+DELETE FROM[dbo].[MQTable] WHERE [MQId]=@MQId
+
+END

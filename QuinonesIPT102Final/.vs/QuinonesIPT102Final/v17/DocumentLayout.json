@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\QuinonesIPT102Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B62C9165-537B-426A-8BFF-0097A87A6A96}|QuinonesIPT102Final\\QuinonesIPT102Final.csproj|c:\\code\\quinonesipt102final\\quinonesipt102final\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B62C9165-537B-426A-8BFF-0097A87A6A96}|QuinonesIPT102Final\\QuinonesIPT102Final.csproj|solutionrelative:quinonesipt102final\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62C9165-537B-426A-8BFF-0097A87A6A96}|QuinonesIPT102Final\\QuinonesIPT102Final.csproj|c:\\code\\quinonesipt102final\\quinonesipt102final\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B62C9165-537B-426A-8BFF-0097A87A6A96}|QuinonesIPT102Final\\QuinonesIPT102Final.csproj|solutionrelative:quinonesipt102final\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62C9165-537B-426A-8BFF-0097A87A6A96}|QuinonesIPT102Final\\QuinonesIPT102Final.csproj|c:\\code\\quinonesipt102final\\quinonesipt102final\\pages\\profilecshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B62C9165-537B-426A-8BFF-0097A87A6A96}|QuinonesIPT102Final\\QuinonesIPT102Final.csproj|solutionrelative:quinonesipt102final\\pages\\profilecshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62C9165-537B-426A-8BFF-0097A87A6A96}|QuinonesIPT102Final\\QuinonesIPT102Final.csproj|c:\\code\\quinonesipt102final\\quinonesipt102final\\pages\\logbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B62C9165-537B-426A-8BFF-0097A87A6A96}|QuinonesIPT102Final\\QuinonesIPT102Final.csproj|solutionrelative:quinonesipt102final\\pages\\logbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\Code\\QuinonesIPT102Final\\QuinonesIPT102Final\\Pages\\about.cshtml",
+              "RelativeDocumentMoniker": "QuinonesIPT102Final\\Pages\\about.cshtml",
+              "ToolTip": "C:\\Code\\QuinonesIPT102Final\\QuinonesIPT102Final\\Pages\\about.cshtml",
+              "RelativeToolTip": "QuinonesIPT102Final\\Pages\\about.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:17:54.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.cshtml",
+              "DocumentMoniker": "C:\\Code\\QuinonesIPT102Final\\QuinonesIPT102Final\\Pages\\home.cshtml",
+              "RelativeDocumentMoniker": "QuinonesIPT102Final\\Pages\\home.cshtml",
+              "ToolTip": "C:\\Code\\QuinonesIPT102Final\\QuinonesIPT102Final\\Pages\\home.cshtml",
+              "RelativeToolTip": "QuinonesIPT102Final\\Pages\\home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:17:18.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "profilecshtml.cshtml",
+              "DocumentMoniker": "C:\\Code\\QuinonesIPT102Final\\QuinonesIPT102Final\\Pages\\profilecshtml.cshtml",
+              "RelativeDocumentMoniker": "QuinonesIPT102Final\\Pages\\profilecshtml.cshtml",
+              "ToolTip": "C:\\Code\\QuinonesIPT102Final\\QuinonesIPT102Final\\Pages\\profilecshtml.cshtml",
+              "RelativeToolTip": "QuinonesIPT102Final\\Pages\\profilecshtml.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:17:05.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogBook.cshtml",
+              "DocumentMoniker": "C:\\Code\\QuinonesIPT102Final\\QuinonesIPT102Final\\Pages\\LogBook.cshtml",
+              "RelativeDocumentMoniker": "QuinonesIPT102Final\\Pages\\LogBook.cshtml",
+              "ToolTip": "C:\\Code\\QuinonesIPT102Final\\QuinonesIPT102Final\\Pages\\LogBook.cshtml",
+              "RelativeToolTip": "QuinonesIPT102Final\\Pages\\LogBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:16:45.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

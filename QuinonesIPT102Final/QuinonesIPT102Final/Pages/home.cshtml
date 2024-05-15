@@ -1,0 +1,52 @@
+﻿@page
+@model QuinonesIPT102Final.Pages.homeModel
+@{
+}
+<style>
+    body {
+        background-color: bisque;
+    }
+</style>
+<div class="position-absolute bottom-0 start-50 translate-middle-x">
+    <ul class="nav justify-content-end">
+        <li class="nav-item">
+            <a class="nav-link active" aria-current="page" asp-page="/about">About</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" aria-current="page" asp-page="/helloworld">Hello World</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" aria-current="page" asp-page="/profile">Profile</a>
+        </li>
+    </ul>
+</div>
+
+<div class="position-absolute top-50 start-0 translate-middle-y ">
+    <ul class="nav flex-column">
+        <div class="d-grid gap-3">
+
+        <li class="nav-item">
+            <a class="btn btn-danger" aria-current="page" asp-page="/LogBook">LogBook</a>
+        </li>
+        <li class="nav-item">
+            <a class="btn btn-danger" aria-current="page" asp-page="/">Medice</a>
+        </li>
+        <li class="nav-item">
+            <a class="btn btn-danger" aria-current="page" asp-page="/">Order</a>
+        </li>
+        <li class="nav-item">
+            <a class="btn btn-danger" aria-current="page" asp-page="/">Setting</a>
+        </li>
+    </ul>
+</div>
+</div>
+
+<center>
+    <h1> </h1>
+    <h1>SCHOOL CLINIC</h1>
+    <h1></h1>
+</center>
+
+<img src="/css/image.jpg" class="rounded mx-auto d-block" alt="Mark" width="1200" height="510">
+
+<div class="position-absolute bottom-0 start-0"> <a class="btn btn-primary" asp-page="/Index">LOG OUT</a></div>
