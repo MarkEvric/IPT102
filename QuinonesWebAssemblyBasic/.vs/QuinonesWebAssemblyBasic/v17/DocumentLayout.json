@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\",
+  "WorkspaceRootPath": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinoneswebassembly\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|solutionrelative:quinoneswebassemblybasic\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinoneswebassembly\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\personal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinonescode\\quinonesipt102\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\personal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|solutionrelative:quinoneswebassemblybasic\\pages\\personal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinoneswebassembly\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinonescode\\quinonesipt102\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|solutionrelative:quinoneswebassemblybasic\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinoneswebassembly\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinonescode\\quinonesipt102\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|solutionrelative:quinoneswebassemblybasic\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinonescode\\quinonesipt102\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|solutionrelative:quinoneswebassemblybasic\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinoneswebassembly\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinonescode\\quinonesipt102\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|solutionrelative:quinoneswebassemblybasic\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinoneswebassembly\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinonescode\\quinonesipt102\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|solutionrelative:quinoneswebassemblybasic\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinoneswebassembly\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinonescode\\quinonesipt102\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|solutionrelative:quinoneswebassemblybasic\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinoneswebassembly\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|c:\\quinonescode\\quinonesipt102\\quinoneswebassemblybasic\\quinoneswebassemblybasic\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07232C48-3647-4DF3-BB30-17A9E678E914}|QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj|solutionrelative:quinoneswebassemblybasic\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,27 +42,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Personal.razor",
-              "DocumentMoniker": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Personal.razor",
+              "DocumentMoniker": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Personal.razor",
               "RelativeDocumentMoniker": "QuinonesWebAssemblyBasic\\Pages\\Personal.razor",
-              "ToolTip": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Personal.razor",
+              "ToolTip": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Personal.razor",
               "RelativeToolTip": "QuinonesWebAssemblyBasic\\Pages\\Personal.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T00:24:41.887Z"
+              "WhenOpened": "2024-03-19T00:24:41.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Contact.razor",
-              "DocumentMoniker": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Contact.razor",
+              "DocumentMoniker": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Contact.razor",
               "RelativeDocumentMoniker": "QuinonesWebAssemblyBasic\\Pages\\Contact.razor",
-              "ToolTip": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Contact.razor",
+              "ToolTip": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Contact.razor",
               "RelativeToolTip": "QuinonesWebAssemblyBasic\\Pages\\Contact.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -73,9 +74,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Counter.razor",
+              "DocumentMoniker": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "QuinonesWebAssemblyBasic\\Pages\\Counter.razor",
-              "ToolTip": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Counter.razor",
+              "ToolTip": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Counter.razor",
               "RelativeToolTip": "QuinonesWebAssemblyBasic\\Pages\\Counter.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -85,9 +86,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "QuinonesWebAssemblyBasic\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Layout\\MainLayout.razor",
               "RelativeToolTip": "QuinonesWebAssemblyBasic\\Layout\\MainLayout.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -97,9 +98,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "QuinonesWebAssemblyBasic\\Pages\\Home.razor",
-              "ToolTip": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Home.razor",
+              "ToolTip": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Home.razor",
               "RelativeToolTip": "QuinonesWebAssemblyBasic\\Pages\\Home.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -109,9 +110,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Weather.razor",
+              "DocumentMoniker": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "QuinonesWebAssemblyBasic\\Pages\\Weather.razor",
-              "ToolTip": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Weather.razor",
+              "ToolTip": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Weather.razor",
               "RelativeToolTip": "QuinonesWebAssemblyBasic\\Pages\\Weather.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -121,9 +122,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "QuinonesWebAssemblyBasic\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Layout\\NavMenu.razor",
               "RelativeToolTip": "QuinonesWebAssemblyBasic\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAA4AAAAAAAAAAAAUwCEAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -131,15 +132,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Profile.razor",
-              "DocumentMoniker": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Profile.razor",
+              "DocumentMoniker": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Profile.razor",
               "RelativeDocumentMoniker": "QuinonesWebAssemblyBasic\\Pages\\Profile.razor",
-              "ToolTip": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Profile.razor",
+              "ToolTip": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\Pages\\Profile.razor",
               "RelativeToolTip": "QuinonesWebAssemblyBasic\\Pages\\Profile.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T14:18:47.065Z"
+              "WhenOpened": "2024-03-18T14:18:47.065Z",
+              "EditorCaption": ""
             }
           ]
         }

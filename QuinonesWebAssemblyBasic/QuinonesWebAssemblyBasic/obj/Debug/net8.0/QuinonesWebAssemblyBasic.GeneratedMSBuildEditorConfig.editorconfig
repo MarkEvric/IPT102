@@ -13,51 +13,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = QuinonesWebAssemblyBasic
 build_property.RootNamespace = QuinonesWebAssemblyBasic
-build_property.ProjectDir = C:\QuinonesWebAssembly\QuinonesWebAssemblyBasic\QuinonesWebAssemblyBasic\
+build_property.ProjectDir = C:\QuinonesCODE\QuinonesIPT102\QuinonesWebAssemblyBasic\QuinonesWebAssemblyBasic\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\QuinonesWebAssembly\QuinonesWebAssemblyBasic\QuinonesWebAssemblyBasic
+build_property.MSBuildProjectDirectory = C:\QuinonesCODE\QuinonesIPT102\QuinonesWebAssemblyBasic\QuinonesWebAssemblyBasic
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/QuinonesWebAssembly/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/App.razor]
+[C:/QuinonesCODE/QuinonesIPT102/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/QuinonesWebAssembly/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Contact.razor]
+[C:/QuinonesCODE/QuinonesIPT102/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Contact.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/QuinonesWebAssembly/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Counter.razor]
+[C:/QuinonesCODE/QuinonesIPT102/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/QuinonesWebAssembly/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Home.razor]
+[C:/QuinonesCODE/QuinonesIPT102/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/QuinonesWebAssembly/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Personal.razor]
+[C:/QuinonesCODE/QuinonesIPT102/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Personal.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/QuinonesWebAssembly/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Profile.razor]
+[C:/QuinonesCODE/QuinonesIPT102/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Profile.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/QuinonesWebAssembly/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Weather.razor]
+[C:/QuinonesCODE/QuinonesIPT102/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/QuinonesWebAssembly/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/_Imports.razor]
+[C:/QuinonesCODE/QuinonesIPT102/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/QuinonesWebAssembly/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Layout/MainLayout.razor]
+[C:/QuinonesCODE/QuinonesIPT102/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-a1uyevtrnb
 
-[C:/QuinonesWebAssembly/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Layout/NavMenu.razor]
+[C:/QuinonesCODE/QuinonesIPT102/QuinonesWebAssemblyBasic/QuinonesWebAssemblyBasic/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-a7aboe2n0v

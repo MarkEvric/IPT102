@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Umyhq2Wqtq5SYNgOLJb5/IwfGQt/nlP9qiDbjQsNUa8bk5Iks8GeybMByNqvRs545iwW+IAaEvwAO4R74HOuog==",
+  "dgSpecHash": "hWVXV3jAY3/0jmBa4Hh/vpy+RHPARgb3ZEFkZIQtwTHFhLT9csqxQ0TysoNQkmSGWEGn1x4SQxR2hDpsN8HJCQ==",
   "success": true,
-  "projectFilePath": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj",
+  "projectFilePath": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.3\\microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.3\\microsoft.aspnetcore.components.8.0.3.nupkg.sha512",

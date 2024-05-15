@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuinonesWebAssemblyBasic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e549ffa7401603cadbe3e735c65c1c57e8b97f54")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuinonesWebAssemblyBasic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuinonesWebAssemblyBasic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

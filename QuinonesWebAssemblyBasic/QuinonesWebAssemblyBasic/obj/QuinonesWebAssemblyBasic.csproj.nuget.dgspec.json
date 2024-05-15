@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj": {}
+    "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj": {}
   },
   "projects": {
-    "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj": {
+    "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj",
+        "projectUniqueName": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj",
         "projectName": "QuinonesWebAssemblyBasic",
-        "projectPath": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj",
+        "projectPath": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\QuinonesWebAssembly\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\obj\\",
+        "outputPath": "C:\\QuinonesCODE\\QuinonesIPT102\\QuinonesWebAssemblyBasic\\QuinonesWebAssemblyBasic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
